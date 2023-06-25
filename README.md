@@ -1,4 +1,4 @@
-# GPU Based Gradient Boosted Tree Regressor Implementation
+# GPU Based Implementation
 I have developed an implementation of the Gradient Boosted Tree Regressor algorithm in C++ that utilizes the concurrency offered by the user's Graphical Processing Unit (GPU) to decrease the time it takes to train models with said algorithim. I utilized Nvidia's Compute Unified Device Architre (CUDA) API to achieve this. 
 
 ## CPU Based Implementation  
